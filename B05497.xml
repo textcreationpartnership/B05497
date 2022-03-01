@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation anent keeping the dyets of the commission of the Kirk</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05497</idno>
+            <idno type="STC">Wing S1633B</idno>
+            <idno type="STC">ESTC R187407</idno>
+            <idno type="EEBO-CITATION">52612441</idno>
+            <idno type="OCLC">ocm 52612441</idno>
+            <idno type="VID">179601</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05497)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179601)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2793:73)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation anent keeping the dyets of the commission of the Kirk</title>
+                  <author>Scotland. Privy Council.</author>
+                  <author>Scotland. Sovereign (1649-1685 : Charles II)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson, Printer to his most sacred Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Royal arms at head of text; initial letter.</note>
+                  <note>Intentional blank spaces in text.</note>
+                  <note>Dated at end: Given at Our Court at Whitehall, the twenty one day of October, one thousand six hundred and seventy eight, and of Our Reign the thirtieth year.</note>
+                  <note>Signed: Hugh Wallace, Cls. Com.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland --  Government --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:179601:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 19 -->
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q>
+                     <gap reason="illegible" extent="2 words">
+                        <desc>〈◊◊〉</desc>
+                     </gap>QUI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>A PROCLAMATION
+Anent keeping the Dyets of the Com<g ref="char:EOLhyphen"/>misſion of the Kirk.</head>
+            <opener>
+               <signed>
+                  <hi>
+                     <seg rend="decorInit">C</seg>HARLES,</hi> by the Grace of GOD, King of Great <hi>Britain, France</hi> and <hi>Ireland,</hi> Defender of the Faith;</signed>
+               <salute>To <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> Macers and Meſſengers of Arms; Our Sheriffs in that part, conjunctly and ſeverally, Specially, Conſtitute, Greet<g ref="char:EOLhyphen"/>ing:</salute>
+            </opener>
+            <p>Whereas, by the fifteenth Act of the third Seſſion of Our ſecond Par<g ref="char:EOLhyphen"/>liament, Dated at <hi>Edinburgh,</hi> the twenty eight day of <hi>Auguſt,</hi> one thouſand ſix hundred and ſeventy two years, Intituled, <hi>Commiſſion for plantation of Kirks, and valuation of Teinds,</hi> It is declared, That if any of the Com<g ref="char:EOLhyphen"/>miſſioners be unable to attend that Service through Death, Sickneſs, or other known impediment, We ſhould be careful to fill their places with other perſons qualified: And alſo, conſidering that Our Officers of State for the time, were nominated Commiſſioners, and that ſome of the Commiſſioners, <hi>viz.</hi> The Earl of <hi>Dumfermling,</hi> late Lord Privy Seal, and Sir <hi>James Loc<gap reason="illegible" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>
+               </hi> of <hi>Lee,</hi> late Juſtice Clerk, (Officers of State) are deceaſed, and that the Mar<g ref="char:EOLhyphen"/>queſs of <hi>Athol</hi> is preferred to be Lord Privy Seal, and Sir <hi>Thomas Wallace</hi> of <hi>Craigie</hi> to be Juſtice Clerk; And which two were alſo nominate Commiſſioners by the ſaid Commiſſion: And likewiſe conſidering, that Sir <hi>Charles Erskin</hi> of <hi>Cambo,</hi> Sir <hi>William Lockhart</hi> of <hi>Lee,</hi> Sir <hi>William Thomſon</hi> and <hi>Thomas Calderwood,</hi> four of the Commiſſioners therein mentioned, are dead; So that there is a Vacancy of ſix of the ſaids Commiſſioners: And being well ſatisfied with the qualifications and abilities of the Perſons after<g ref="char:EOLhyphen"/>named, for diſcharge of that Truſt, and being confident of their Integrity; We have therefore nominated, added, made, and appointed <hi>Alexander</hi> Earl of <hi>Murray,</hi> as one for the Nobility, Sir <hi>George Mckenȝie</hi> of <hi>Tarbit, John Drummond</hi> of <hi>Londie,</hi> and <hi>Richard Maitland</hi> of <hi>Gogar,</hi> as three for the Barrons, <hi>Francis Kinloch</hi> of <hi>Gil<g ref="char:EOLhyphen"/>mertoun,</hi> Lord Provoſt of <hi>Edinburgh,</hi> and Mr. <hi>James Rocheid,</hi> Town Clerk of <hi>Edinburgh,</hi> as two for the Bur<g ref="char:EOLhyphen"/>rows, Commiſſioners in place of the foreſaids perſons, to the effect foreſaid. And it being Our Pleaſure, that the uſual Diets and Meetings of the ſaid Commiſſion, ſhould be exactly attended, for the ſpeedy diſpatch of Ju<g ref="char:EOLhyphen"/>ſtice to Our Leidges, in their Affairs before that Court; Our Will is Herefore; And We charge you ſtrait<g ref="char:EOLhyphen"/>ly, and Command, that incontinent, after ſight hereof, Ye paſs to the Mercat Croſs of <hi>Edinburgh,</hi> and other places needful, and there, by open Proclamation, in Our Name and Authority, make intimation of this Our Royal Pleaſure, requiring the forenamed Commiſſioners, and all others named in the ſaid Commiſſion, to give due and exact attendance upon the uſual Diets and Meetings thereof, for the ſpeedy diſpatch of Juſtice to Our Leidges, in their Affairs, before that Court, as they tender Our Service, and will be anſwerable for their neglect.</p>
+            <closer>
+               <dateline>Given at Our Court at <hi>Whitehall,</hi> 
+                  <date>the twenty one day of <hi>October,</hi> one thouſand ſix hundred and ſeventy eight, and of Our Reign the thirtieth year.</date>
+               </dateline>
+               <lb/>
+God ſave the King.<lb/>
+               <signed>Per Actum Dominorum Commiſſionis. <hi>Hugh Wallace,</hi> Cls. Com.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to his moſt Sacred MAJESTY. 1678.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
